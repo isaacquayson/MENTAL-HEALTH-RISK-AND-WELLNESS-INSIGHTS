@@ -22,11 +22,11 @@ This project demonstrates a full-cycle data analytics process, combining data en
 
 Key questions include:<br/>
 
-a. Who is most at risk of mental health issues?<br/>
+  a. Who is most at risk of mental health issues?<br/>
 
-b. Does seeking treatment actually improve productivity?<br/>
+  b. Does seeking treatment actually improve productivity?<br/>
 
-c. How do gender, age, and employment status relate to mental wellness?<br/>
+  c. How do gender, age, and employment status relate to mental wellness?<br/>
 
 4. A predictive system is required to classify individuals by risk level, enabling timely support and resource allocation.<br/>
 
@@ -79,22 +79,36 @@ e. Microsoft Excel (for data preview)<br/>
 ## KEY FINDINGS AND INSIGHTS 
 
 a. A significant portion of the population has a history of mental health issues(30.4%), and many seek treatment(40%).<br/>
+
 b. Higher stress levels are associated with lower sleep quality.<br/>
+
 c. On-site work environments show a higher frequency of mental health issues compared to remote work.<br/>
+
 d. Males and non-binary individuals are more likely to be categorized as "high risk" for mental health concerns.<br/>
+
 e. Unemployed individuals tend to have slightly higher mental health challenges compared to employed individuals.<br/>
+
 f. Self-employed individuals appear to experience varied mental health challenges, often influenced by isolation or workload stress.<br/>
+
 g. The Decision Tree Classifier outperformed other models with perfect scores (100%) across all metrics, indicating strong predictability.<br/>
+
 h. The main factors causing mental health risk are the work environment, stress level, sleep hours, and depression score<br/>
+
 
 ## RECOMMENDATIONS 
 
 a. Employers, especially those with on-site staff, should enhance mental health support programs to mitigate risks.<br/>
+
 b. Encourage regular physical activity among employees as it is linked to reduced anxiety and stress levels.<br/>
+
 c. Provide targeted mental health interventions for males and non-binary individuals who are at higher risk.<br/>
+
 d. Promote mental health awareness in self-employed and remote work settings to combat isolation-driven stress.<br/>
+
 e. Increase access to social support programs, as they are linked to reduced mental health risks.<br/>
+
 f. Encourage balanced work-life schedules to improve sleep quality and reduce stress.<br/>
+
 g. Adopt predictive analytics using decision tree models for early detection of mental health risks.<br/>
 
 
